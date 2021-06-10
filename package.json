@@ -1,0 +1,23 @@
+{
+  "name": "okay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {
+    "css-loader": "^5.2.6",
+    "file-loader": "^6.2.0",
+    "vue": "^2.6.14",
+    "vue-loader": "^15.9.7",
+    "vue-style-loader": "^4.1.3"
+  }
+}
